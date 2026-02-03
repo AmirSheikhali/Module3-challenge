@@ -40,8 +40,7 @@ namespace Module3Challenge.Pages
                 HungerMessage = "Tortoise: Slow and large i need veggies ";
             }
 
-            // --------------------------
-            // Ternary operator for sound
+            
             
             SoundMessage = hungerLevel >= 8
                 ? "Listen to the Lion: Roar!"
